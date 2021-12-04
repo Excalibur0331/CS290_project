@@ -1,0 +1,21 @@
+.title{
+    font-family: 'Trebuchet MS';
+    font-size: 80px;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+
+}
+
+header a{
+    color: black;
+    position: relative;
+}
+
+.title a:hover {
+    text-decoration: none;
+}
